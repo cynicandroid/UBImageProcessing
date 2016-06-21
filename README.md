@@ -1,1 +1,3 @@
-# UBImageProcessing2
+# UBImageProcessing 
+
+Image processing tool built on C#
